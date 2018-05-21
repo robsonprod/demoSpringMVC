@@ -1,4 +1,4 @@
-package com.demomvc;
+package com.demomvc.conversor;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.convert.converter.Converter;
